@@ -1,16 +1,56 @@
-## Hi there 👋
+## Hi 👋, I'm Pothuganti Nikhil
 
-<!--
-**nikhil-9550/nikhil-9550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Full Stack Developer | MERN  
+📊 Building scalable, real-world web applications
+
+🔭 Working on full-stack projects  
+🌱 Learning advanced backend  
+👯 Looking to collaborate on MERN projects  
+📫 pothugantinikhil9@gmail.com  
+
+---
+
+## 🧠 Skills & Tools
+
+- React, JavaScript, HTML, CSS  
+- Node.js, Express  
+- MongoDB  
+- Git, GitHub, Vercel  
+
+---
+
+## 💼 Internship Experience
+
+🏢 **Innomatics Research Labs**  
+💼 Full Stack Developer Intern  
+📅 Jan 2025 – Mar 2025 | Hyderabad  
+
+- Built and deployed a secure Healthcare Booking System using MERN  
+- Implemented JWT authentication & role-based access (Admin/Doctor/Patient)  
+- Developed REST APIs with Node.js & Express  
+- Deployed responsive frontend on Vercel  
+
+---
+
+## 🚀 Projects
+
+🔹 **Healthcare Booking System**  
+- MERN stack, JWT auth, role-based access
+🔹Water Quality Monitoring and Forcasting System
+- ML-based Water Quality Monitoring and Forecasting System
+  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/pothuganti-nikhil/  
+- 💻 GitHub: https://github.com/nikhil-9550  
+
+---
+
+✨ *“Build real things. Learn by shipping.”*
